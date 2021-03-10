@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BilldMarkets": {
+      "commandName": "Project",
+      "commandLineArgs": "/apiSecret sk_93080b475dfe40308b84d19693e25803 /apiKey pk_762c15eff95b473e873a18c2f191386c"
+    }
+  }
+}
